@@ -8,3 +8,6 @@ Open Android Studio and debug from the folder Strawberries/android
 Run in the terminal react-native run-android --variant=gvrDebug
 
 Follow instruction at https://blog.viromedia.com/how-to-build-an-interactive-ar-app-in-5-mins-w-react-native-viro-ar-e420147e1612 
+
+Example
+![system structure](blog/example.jpg)
